@@ -1,0 +1,52 @@
+{
+    "users": [
+        {
+            "username": "",
+            "id": 1
+        },
+        {
+            "username": "    ",
+            "id": 2
+        },
+        {
+            "username": "user3",
+            "id": 3.5
+        },
+        {
+            "username": "user4",
+            "id": -4
+        },
+        {
+            "username": "user5 with space",
+            "id": 5
+        },
+        {
+            "username": "user6",
+            "id": "six"
+        },
+        {
+            "username": "user1",
+            "id": 7
+        },
+        {
+            "username": "user2",
+            "id": 8
+        },
+        {
+            "username": "user3",
+            "id": 9
+        },
+        {
+            "username": "user4",
+            "id": 10
+        },
+        {
+            "username": "user5",
+            "id": 11
+        },
+        {
+            "username": "user6",
+            "id": 12
+        }
+    ]
+}
